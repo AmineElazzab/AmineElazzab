@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammed Amine Elazzab</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amineelazzab&label=Profile%20views&color=0e75b6&style=flat" alt="amineelazzab" /> </p>
+<img align="right" src="https://media.giphy.com/media/z5iCvo1oCbqt7ukMQs/giphy.gif">
+
 
 - 🌱 I’m currently learning **design**
 
