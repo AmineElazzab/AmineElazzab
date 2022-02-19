@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammed Amine Elazzab</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amineelazzab&label=Profile%20views&color=0e75b6&style=flat" alt="amineelazzab" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amineelazzab" alt="amineelazzab" /></a> </p>
-
 - 🌱 I’m currently learning **design**
 
 - 📫 How to reach me **ma.elazzab@gmail.com**
