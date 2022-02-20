@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **design**
+- 👨‍💻 UI UX Designer
 
 - 📫 How to reach me **ma.elazzab@gmail.com**
 
