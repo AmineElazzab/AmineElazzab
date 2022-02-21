@@ -1,7 +1,7 @@
 <img align="center" src="https://media.giphy.com/media/l3q2WMhNcyFOWP280/giphy.gif">
 
 <h1 align="center">Hi 👋, I'm Mohammed Amine Elazzab</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amineelazzab&label=Profile%20views&color=0e75b6&style=flat" alt="amineelazzab" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=amineelazzab&label=Profile%20views&color=0e75b6&style=flat" alt="amineelazzab" /> </p>
 
 
 
