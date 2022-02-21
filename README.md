@@ -1,4 +1,4 @@
-<img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
+<img align="right" src="https://dribbble.com/shots/5460287-Designer-at-work/attachments/10881265?mode=media">
 
 <h1 align="center">Hi 👋, I'm Mohammed Amine Elazzab</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amineelazzab&label=Profile%20views&color=0e75b6&style=flat" alt="amineelazzab" /> </p>
