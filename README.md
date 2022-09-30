@@ -1,7 +1,7 @@
-<img align="center" src="https://media.giphy.com/media/l3q2WMhNcyFOWP280/giphy.gif">
 
 <h1 align="center">Hi 👋, I'm Mohammed Amine Elazzab</h1>
 <h3 align="center">A passionate frontend developer from Morocco</h3>
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://gist.github.com/MedRedha/fd8e2481bde2610c96b9aafde543879c)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amineelazzab&label=Profile%20views&color=0e75b6&style=flat" alt="amineelazzab" /> </p>
 
